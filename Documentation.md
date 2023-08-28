@@ -127,7 +127,7 @@ We are tasked to communicate findings to CEO and CMO. I have developed a documen
 
 Good Afternoon,
 
-I'm Swathi Maruboina, and I'm eager to share some information with you regarding your company. I appreciate you giving me the leading questions. Seeing the sorts of insights, you expect to derive from the data was useful. I really believe you will find the analysis convincing and useful as you decide how to proceed with your next business prospects.
+I'm Sruthi Maruboina, and I'm eager to share some information with you regarding your company. I appreciate you giving me the leading questions. Seeing the sorts of insights, you expect to derive from the data was useful. I really believe you will find the analysis convincing and useful as you decide how to proceed with your next business prospects.
 
 I want to start by assuring you that I have given the most accurate and current analysis. I cleaned up any records with negative quantities and unit prices after loading the data into my software, since it was necessary to do so in order to give useful analysis.
 
